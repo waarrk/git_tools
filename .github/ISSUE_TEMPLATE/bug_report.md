@@ -1,6 +1,6 @@
 ---
 name: バグレポート
-about: バグレポート
+about: 発見したバグを報告する
 title: ""
 labels: ""
 assignees: ""

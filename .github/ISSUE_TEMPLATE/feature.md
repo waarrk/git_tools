@@ -1,6 +1,6 @@
 ---
 name: 機能追加
-about: 機能追加
+about: 新機能を追加する 思いついた
 title: ""
 labels: ""
 assignees: ""
