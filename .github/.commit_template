@@ -1,0 +1,23 @@
+# ==================== Prefix ====================
+# init: 初コミット（Initial Commit）
+# fix: バグ修正（Bug Fix）
+# hotfix: 重大なバグ修正（Hot Bug Fix）
+# add: 新規ファイル追加（Add New Files）
+# feat: 新機能（New Feature）
+# upd: 細かい数値などの改善（Update）
+# modify: 部分的な改良（Modify）
+# refact: 内部構造の整理(Refactoring)
+# doc: ドキュメント（Documentation）
+# design: デザインUI/UX(Accessibility)
+# perf: パフォーマンスの改良（Performance）
+# tool: ツールの導入（Tooling）
+# test: テストコードの追加（Tests）
+# remove: 削除（Removal）
+# chore: ビルドプロセスなどの変更（Chores）
+# wip: 進行中の作業(Work In Progress)
+
+
+# ==================== Format ====================
+# prefix: Subject
+#
+#  - #issue number: what did you do ? 
