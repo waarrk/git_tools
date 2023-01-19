@@ -1,3 +1,7 @@
+# prefix: Subject (#issue_number)
+#
+#  - what did you do ? 
+
 # ==================== Prefix ====================
 # init: 初コミット（Initial Commit）
 # fix: バグ修正（Bug Fix）
@@ -15,9 +19,3 @@
 # remove: 削除（Removal）
 # chore: ビルドプロセスなどの変更（Chores）
 # wip: 進行中の作業(Work In Progress)
-
-
-# ==================== Format ====================
-# prefix: Subject
-#
-#  - #issue number: what did you do ? 
